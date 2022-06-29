@@ -3,7 +3,7 @@ from tkinter.filedialog import asksaveasfilename, askopenfilename
 import subprocess
 
 compiler = Tk()
-compiler.title('Online IDE by Arghya Das')
+compiler.title('Proxypy')
 file_path = ''
 
 
